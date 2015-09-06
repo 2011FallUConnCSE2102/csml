@@ -1,0 +1,3 @@
+INDEX VERSION 1.127+/home/theresesmith/Documents/2015Fall/Research/ComputationalSystemsMedicine/WSInetMicroscopes/.metadata/.plugins/org.eclipse.jdt.core
+2798773786.index
+1168387345.index

@@ -1,0 +1,18 @@
+!SESSION 2015-09-05 21:17:46.864 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/theresesmith/Documents/2015Fall/Research/ComputationalSystemsMedicine/WSInetMicroscopes -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui.navigator 4 0 2015-09-05 21:24:11.868
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in IntnetOfMicroscopes]
+  <default> (not open)
+  actuators (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2015-09-05 21:24:29.656
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in IntnetOfMicroscopes]
+  <default> (not open)
+  actuators (not open)
+  sensors (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
